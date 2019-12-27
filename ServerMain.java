@@ -4,7 +4,7 @@ import java.net.Socket;
 
 public class ServerMain {
     public static void main(String[] args){
-        int port = 8818;
+        int port = 8817;
         try{
             ServerSocket serverSocket = new ServerSocket(port);
             while(true){
