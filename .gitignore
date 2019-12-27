@@ -1,3 +1,12 @@
+# Content of Folders #
+###################
+/.settings
+
+# Extra Java Stuff #
+###################
+.classpath
+.project
+
 # Compiled source #
 ###################
 *.com
